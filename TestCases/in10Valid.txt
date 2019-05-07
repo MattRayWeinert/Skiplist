@@ -1,0 +1,16 @@
+For the input file named in10.txt
+With the RNG unseeded,
+the current Skip List is shown below: 
+---infinity
+ 65; 
+ 77;  77; 
+ 90; 
+ 120; 
+ 450;  450; 
+ 500; 
+ 888; 
+ 990; 
+ 7000; 
+ 7900; 
++++infinity
+---End of Skip List---

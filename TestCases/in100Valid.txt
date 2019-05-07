@@ -1,0 +1,31 @@
+For the input file named in100.txt
+With the RNG unseeded,
+1413 integer not found - delete not successful
+3300 integer not found - delete not successful
+222 integer not found - delete not successful
+292 integer not found - delete not successful
+4069 integer not found - delete not successful
+1132 integer not found - delete not successful
+75 integer not found - delete not successful
+45 integer not found - delete not successful
+2770 integer not found - delete not successful
+2230 integer not found - delete not successful
+4357 integer not found - delete not successful
+1043 integer not found - delete not successful
+4844 integer not found - delete not successful
+577 integer not found - delete not successful
+1945 integer not found - delete not successful
+935 integer not found - delete not successful
+4638 integer not found - delete not successful
+4248 integer not found - delete not successful
+3360 integer not found - delete not successful
+202 integer not found - delete not successful
+264 integer not found - delete not successful
+4802 integer not found - delete not successful
+3380 integer not found - delete not successful
+2804 integer not found - delete not successful
+4134 integer not found - delete not successful
+2526 integer not found - delete not successful
+1770 integer not found - delete not successful
+4638 integer not found - delete not successful
+1426 integer not found - delete not successful

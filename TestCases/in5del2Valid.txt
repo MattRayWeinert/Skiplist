@@ -1,0 +1,12 @@
+For the input file named in5del2.txt
+With the RNG unseeded,
+100 deleted
+100 NOT FOUND
+the current Skip List is shown below: 
+---infinity
+ 400; 
+ 799; 
+ 2000; 
+ 5000; 
++++infinity
+---End of Skip List---

@@ -1,0 +1,11 @@
+For the input file named in5.txt
+With the RNG unseeded,
+the current Skip List is shown below: 
+---infinity
+ 3; 
+ 4; 
+ 9; 
+ 11; 
+ 24;  24; 
++++infinity
+---End of Skip List---
